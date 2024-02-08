@@ -20,5 +20,5 @@
 - Contato: (19) 99139-0927
 
 
-Apaixonado por tecnologia e obstinado em aprender sempre mais.
+Entusiasta de tecnologia e ávido por conhecimento, estou embarcando na jornada de aprendizado para me tornar um profissional de desenvolvimento. Estou determinado a ampliar meu repertório e mergulhar de cabeça neste mundo dinâmico e desafiador da programação.
 
