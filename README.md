@@ -4,7 +4,7 @@
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathgoms02&show_icons=true&theme=radical)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathgoms02)](https://github.com/mathgoms02/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathgoms02&layout=compact)
 
 ## Ultimas tecnologias que utilizei:
 <div style="display: inline_block"><br/>
