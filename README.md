@@ -4,9 +4,7 @@
 
 Sou estudante de Engenharia da Computação, apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos aprendizados e desafios que me permitam evoluir como profissional na área de tecnologia.
 
-
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathgoms02&show_icons=true&theme=radical)
-
 
 ## Ultimas tecnologias que utilizei:
 <div style="display: inline_block"><br/>
@@ -17,7 +15,7 @@ Sou estudante de Engenharia da Computação, apaixonado por tecnologia e desenvo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /></div></br>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathgoms02&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathgoms02&layout=compact&theme=radical)
 
 ### Contatos
 - E-mail: math.gomsx3@gmail.com
