@@ -1,8 +1,8 @@
 <h1>👋 &nbsp;Hey, I'm Matheus Gomes, a Full-Stack Developer in progress!</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mathgomsit/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:math.gomsx3@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mathgomsit/"><img src="https://img.shields.io/badge/-Matheus%20Gomes-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:math.gomsx3@gmail.com"><img src="https://img.shields.io/badge/-math.gomsx3@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/mathgoms02"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
