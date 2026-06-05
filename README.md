@@ -10,15 +10,15 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-I'm a Computer Engineering student focused on **Full-Stack development, automation, and data-driven solutions**.
+I'm a Computer Engineering student focused on Full-Stack development, automation, and data-driven solutions.
 
-Currently, I work as a **Research & Development intern at Motorola**, where I develop tools and automations that improve team efficiency. My work involves **Python, API integrations (Jira, Google Drive, internal REST APIs), Linux environments, and automated testing**, helping ensure reliable workflows and supporting development teams with data and insights.
+In my previous role as a Research & Development Intern at Motorola, I developed tools and automation solutions that improved team efficiency. My work involved Python, API integrations (Jira, Google Drive, and internal REST APIs), Linux environments, and automated testing, helping ensure reliable workflows and supporting development teams with data-driven insights.
 
-I enjoy building solutions that have a real impact. I've worked on projects involving **NLP, LLMs, Vue.js, and Python**, connecting artificial intelligence with real-world problems.
+I enjoy building solutions that have a real impact. I've worked on projects involving NLP, LLMs, Vue.js, and Python, connecting artificial intelligence with real-world problems.
 
-Previously, at **Martinrea**, I developed solutions more independently, creating **automations with Python, VBA, and MySQL**, building **Java + MySQL (CRUD) applications**, and developing **dashboards with Power BI and Power Apps**, always focused on process optimization.
+Previously, at Martinrea, I developed solutions more independently, creating automations with Python, VBA, and MySQL, building Java + MySQL (CRUD) applications, and developing dashboards with Power BI and Power Apps, always focused on process optimization.
 
-Currently, I’m transitioning and deepening my knowledge in modern Full-Stack technologies, focusing on **Node.js, React, and Next.js**, aiming to build scalable and well-structured applications.
+Currently, I’m transitioning and deepening my knowledge in modern Full-Stack technologies, focusing on Node.js, React, and Next.js, aiming to build scalable and well-structured applications.
 
 ---
 
@@ -70,6 +70,7 @@ This GitHub is a reflection of my journey and growth as a developer. Here you’
 If you want to collaborate, talk about tech, or just connect:
 
 👉 LinkedIn: https://www.linkedin.com/in/mathgomsit/  
+👉 Portfolio: https://mathgoms02.github.io/portfolio-dev/  
 👉 Email: math.gomsx3@gmail.com
 
 I'm always open to new opportunities and challenges 🚀
